@@ -1,0 +1,10 @@
+C:\QC\Views\Git\lt-pcqc\bin\Avenger.exe.config
+C:\QC\Views\Git\lt-pcqc\bin\Avenger.exe
+C:\QC\Views\Git\lt-pcqc\bin\Avenger.pdb
+C:\QC\Views\Git\lt-pcqc\Tools\Avenger\CreateLogFiles\obj\x86\Release\ResolveAssemblyReference.cache
+C:\QC\Views\Git\lt-pcqc\Tools\Avenger\CreateLogFiles\obj\x86\Release\Avenger.Form1.resources
+C:\QC\Views\Git\lt-pcqc\Tools\Avenger\CreateLogFiles\obj\x86\Release\Avenger.Properties.Resources.resources
+C:\QC\Views\Git\lt-pcqc\Tools\Avenger\CreateLogFiles\obj\x86\Release\GenerateResource.read.1.tlog
+C:\QC\Views\Git\lt-pcqc\Tools\Avenger\CreateLogFiles\obj\x86\Release\GenerateResource.write.1.tlog
+C:\QC\Views\Git\lt-pcqc\Tools\Avenger\CreateLogFiles\obj\x86\Release\Avenger.exe
+C:\QC\Views\Git\lt-pcqc\Tools\Avenger\CreateLogFiles\obj\x86\Release\Avenger.pdb
